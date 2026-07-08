@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:16213E&height=220&section=header&text=RAM&fontSize=58&fontColor=E8F4F8&animation=fadeIn&fontAlignY=32&desc=Random%20Access%20Maker&descAlignY=52&descSize=16&descColor=00D9FF" alt="RAM/OS header banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=RAM%2FOS+--+booting...;Identity%3A+Vishnu+Sai+Ram+Chennamsetty;Role%3A+Full-Stack+%2B+Applied+AI+Engineer;Status%3A+building%2C+breaking%2C+debugging%2C+shipping" alt="Typing animation"/>
 
